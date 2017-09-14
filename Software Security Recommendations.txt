@@ -17,6 +17,11 @@ Avoid SMS two factor, as it is prone to attacks.
 -Encrypt your disk or device. Mac OSX and Linux make this easy. Windows doesn’t. 
 -Avoid using public password unprotected/ open WiFi networks for secure communications or logging into websites.
 
+Operating Systems
+-Debian or Ubuntu
+-Linux Mint 
+-BSD 
+
 Location Security
 -Turn off location services
 -Turn off location history on Google
@@ -54,24 +59,23 @@ Email
 
 Search Engine
 -DuckDuckGo
-
+-Startpage.com
 
 Webcam Applications
-Cheese
-guvcview
+-Cheese
+-guvcview
 
 Computer Maintenance
 -Bleachbit
 
 Browser Plugins
--Ublock origin - for adblocking
+-Ublock origin
 -HTTPS Everywhere
 -NoScript
 -Privacy Badger
 
 Password Manager
--Keepass/Keepassx for high risk
--Lastpass 
+-Keepass/Keepassx/Keepass2
 -Pass
 
 Cloud storage
@@ -79,9 +83,9 @@ Cloud storage
 -syncthing
 
 VPN Service
--Private Internet Access -paid
 -Riseup VPN service -free with invention
 -Austici -free
+-Private Internet Access -paid 
 
 Firewall
 -Build your own using pfSense 
@@ -97,9 +101,9 @@ Open source router software
 -pfSense
 
 Mobile Operating Systems
-AOSP
-Cyanogenmod
-Linux 
+-AOSP
+-Cyanogenmod
+-Linux 
 
 Preventing Data Leakage
 -Avoid using social media on mobile devices
