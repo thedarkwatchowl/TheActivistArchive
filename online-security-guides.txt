@@ -1,23 +1,51 @@
-Defending Email 
-https://emailselfdefense.fsf.org/en/
-
-EFF Guides on Basic Practices
+EFF Guides on Basic Practices for staying safe on the web:
 https://ssd.eff.org/en
+
+Hardening e-mail:
+https://emailselfdefense.fsf.org/en/
 
 Operational Security Guide for Organizations
 http://opsec.readthedocs.io/en/latest/
 
 Local password managers
-http://keepass.info/
+Keepass: http://keepass.info/
+Pass: https://www.passwordstore.org/
 
 Cybersecurity News
 https://www.schneier.com/
 
-How to opt out of mass surveillance
+How to opt-out of mass surveillance by discovering open source software:
 https://prism-break.org/en/categories/gnu-linux/
 
 How to avoid being doxxed
 https://arstechnica.com/information-technology/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/
 https://resist.space/
 https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
+
+Using public key cryptography:
+https://keybase.io/
+
+A pretty good paper on using PGP for public key cryptography:
+http://www.bitcoinnotbombs.com/beginners-guide-to-pgp/
+
+Mobile Security:
+https://www.slideshare.net/grugq/mobile-opsec/85-RAISENSAPRICE_2_PWN_probably
+
+Compartmentalization and Hardware Set up
+https://blog.securityevaluators.com/technical-anonymity-guide-658a53adff5b
+
+Blackphone:
+https://www.silentcircle.com/buy/
+
+Short anonymity guide:
+https://blog.securityevaluators.com/technical-anonymity-guide-658a53adff5b
+
+On opsec:
+https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8
+
+Hacker opsec:
+http://grugq.github.io/
+
+Secure communications blurb:
+https://grugq.tumblr.com/post/68453478391/secure-communications
 
