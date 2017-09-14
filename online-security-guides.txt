@@ -1,0 +1,23 @@
+Defending Email 
+https://emailselfdefense.fsf.org/en/
+
+EFF Guides on Basic Practices
+https://ssd.eff.org/en
+
+Operational Security Guide for Organizations
+http://opsec.readthedocs.io/en/latest/
+
+Local password managers
+http://keepass.info/
+
+Cybersecurity News
+https://www.schneier.com/
+
+How to opt out of mass surveillance
+https://prism-break.org/en/categories/gnu-linux/
+
+How to avoid being doxxed
+https://arstechnica.com/information-technology/2015/03/anti-doxing-strategy-or-how-to-avoid-50-qurans-and-287-of-chick-fil-a/
+https://resist.space/
+https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
+

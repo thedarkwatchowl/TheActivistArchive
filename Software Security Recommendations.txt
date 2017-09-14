@@ -1,0 +1,113 @@
+General Practices
+-Use 2-factor authentication when possible: Yubikey, FreeOTP, or Google Authenticator
+Avoid SMS two factor, as it is prone to attacks. 
+-Don’t click on unexpected emails/spam. 
+-Don’t click on unwarranted advertisements/ go to spam ridden websites
+-Don’t open attachments from emails in an unsandboxed environment
+-Close unused outgoing and incoming ports in your personal firewall on your computer as well as your primary firewall near your router
+-Place a sticker over your laptop’s web cam port to prevent from video spying- or better yet take your laptop apart enough to unplug the webcam and microphone. Use external ones when necessary. 
+-Don’t authorize access to permissions from unknown software sources
+-Don’t plug in unknown or untrusted flash drives, printers, keyboards, etc. 
+-Don’t respond to suspicious or unwarranted links sent through social media or email. 
+-Don’t install tool bars on your browser. 
+-Don’t fill out your personal information like your address, email, social security number, etc on forms for websites that are untrusted or that do not use HTTPS
+-Always ensure you are using the HTTPS version of a website by using the HTTPS Everywhere plugin.
+-Keep your software and operating system up to date.
+-If using Windows, use an active virus protection system.
+-Encrypt your disk or device. Mac OSX and Linux make this easy. Windows doesn’t. 
+-Avoid using public password unprotected/ open WiFi networks for secure communications or logging into websites.
+
+Location Security
+-Turn off location services
+-Turn off location history on Google
+-Turn on airplane mode and placing it in a Faraday pouch.
+
+Voice recording security
+-Use an external microphone and disable or remove your internal microphone in your laptop
+-Remove the internal microphone in your phone
+
+Video Chatting
+-Jitsi 
+-meet.jit.si
+-Your own Astrix Server
+
+Web Browsing
+-Firefox Browser 
+-The Tor Browser 
+-Orbot & Orfox - tor for Android
+
+Desktop Operating Systems
+-Tails
+-CubesOS
+Another Linux distribution
+
+Messaging Platforms
+-Pidgin with OTR -for encrypted off the record messaging
+-Signal - for encrypted text messaging
+
+Email
+-Protonmail (easy)
+-K-9 Mail for Android 
+-Rise-Up e-mail service
+-Autistici
+-Your own web server (hardest)
+
+Search Engine
+-DuckDuckGo
+
+
+Webcam Applications
+Cheese
+guvcview
+
+Computer Maintenance
+-Bleachbit
+
+Browser Plugins
+-Ublock origin - for adblocking
+-HTTPS Everywhere
+-NoScript
+-Privacy Badger
+
+Password Manager
+-Keepass/Keepassx for high risk
+-Lastpass 
+-Pass
+
+Cloud storage
+-ownCloud
+-syncthing
+
+VPN Service
+-Private Internet Access -paid
+-Riseup VPN service -free with invention
+-Austici -free
+
+Firewall
+-Build your own using pfSense 
+
+Financial security
+-Masking cards with privacy.com or albine blur.
+-Masking emails and phone with the same service
+-Putting a credit freeze on the three credit agencies, only lifting it when needed. 
+
+Open source router software
+-DDWrt
+-Openwrt
+-pfSense
+
+Mobile Operating Systems
+AOSP
+Cyanogenmod
+Linux 
+
+Preventing Data Leakage
+-Avoid using social media on mobile devices
+-Lock down the permissions necessary for applications on your phone 
+-Do not post when you are on vacation on social media
+
+
+
+
+
+
