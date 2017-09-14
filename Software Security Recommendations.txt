@@ -10,7 +10,7 @@ Avoid SMS two factor, as it is prone to attacks.
 -Don’t plug in unknown or untrusted flash drives, printers, keyboards, etc. 
 -Don’t respond to suspicious or unwarranted links sent through social media or email. 
 -Don’t install tool bars on your browser. 
--Don’t fill out your personal information like your address, email, social security number, etc on forms for websites that are untrusted or that do not use HTTPS
+-Don’t fill out your personal information like your address, email, social security number, etc on forms for websites that are      untrusted or that do not use HTTPS
 -Always ensure you are using the HTTPS version of a website by using the HTTPS Everywhere plugin.
 -Keep your software and operating system up to date.
 -If using Windows, use an active virus protection system.
@@ -18,9 +18,13 @@ Avoid SMS two factor, as it is prone to attacks.
 -Avoid using public password unprotected/ open WiFi networks for secure communications or logging into websites.
 
 Operating Systems
--Debian or Ubuntu
--Linux Mint 
--BSD 
+  everyday:
+    -Debian or Ubuntu
+     -Linux Mint 
+     -BSD 
+  high risk:
+    -Tails
+    -QubesOS
 
 Location Security
 -Turn off location services
@@ -77,6 +81,7 @@ Browser Plugins
 Password Manager
 -Keepass/Keepassx/Keepass2
 -Pass
+-Lastpass (paid)
 
 Cloud storage
 -ownCloud
