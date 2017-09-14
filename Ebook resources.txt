@@ -1,0 +1,109 @@
+Public
+http://gen.lib.rus.ec (They are blocking U.S. IP addresses, use a foreign proxy to get around it)
+http://textbooknova.com
+http://en.bookfi.org/
+http://library.nu (invite only, Library.nu book request thread) - putting this here only because it fits with the rest of the public DDL sites R.I.P.
+http://wormhole.in (specializes in math/science-need to register)
+http://ebooksbay.org
+http://warez-bb.org (need to register and then go to eBooks)
+http://www.gutenberg.org
+http://www.updatebooks.com
+http://ebookee.org
+http://www.manybooks.net
+http://ebookshare.net
+http://book.libertorrent.com/
+http://www.giuciao.com
+http://www.feedurbrain.com
+http://oll.libertyfund.org/index.php?option=com_content&task=view&id=380
+http://www.alleng.ru/
+http://www.eknigu.com/
+http://ishare.iask.sina.com.cn/
+http://www.jubad.com/
+http://btebook.com/0-01a8edbf9d27cebe.htm
+http://www.cnshare.org/
+http://www.bookgo.org/
+http://www.pdfchm.com/
+http://2020ok.com/
+http://bbs.topsage.com/index_121.html
+http://www.ebookshare.net/
+http://nips.djvuzone.org/index.html
+http://www.zainbooks.com/
+http://free-books.us.to/
+http://www.freebookspot.es/Default.aspx
+http://www.freeetextbooks.com (need to register)
+http://ebooksshares.org (need to register)
+http://onebigtorrent.org
+http://www.downeu.com
+http://ebook-torrent-library.info (need to register)
+http://forums.mvgroup.org (need to register)
+http://theaudiobookbay.com (audiobooks)
+By: "ratokursi"
+Here's a custom search engine for ebooks: http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco
+Sites it indexes: http://gen.lib.rus.ec/*
+http://ebookee.org/*
+http://ebooksbay.org/*
+http://free-books.us.to/*
+http://librarypirate.me/*
+http://textbooknova.com/*
+http://www.downeu.com/*
+http://ebookshare.net/*
+http://www.freebookspot.es/*
+http://www.demonoid.me/*
+http://www.kat.ph/*
+http://www.esnips.com/*
+www.4shared.com/*
+http://www.ebooklink.net/*
+http://wowebook.net/*
+http://www.pdfchm.net/*
+http://www.free-ebook-download.net/*
+http://ebookbrowse.com/*
+http://www.ebook3000.com/*
+http://www.ipmart-forum.com/*
+http://www.mediafire.com/*
+The following are general public torrent trackers:
+http://thepiratebay.org/browse/601
+http://www.demonoid.me/files/?category=11&subcategory=0&language=0&seeded=0&external=2&query=&uid=0&sort=
+http://www.kat.ph/books/
+http://bitsnoop.com/browse/other-ebooks/
+http://torrentz.eu
+http://torrent-finder.info
+The following site searches direct download sites like megaupload R.I.P./rapidshare/etc:
+http://www.filestube.com
+You can also try googling phrases like "textbook/book title .torrent" or "textbook/book title .pdf" or "textbook/book title ebook" or anything along those lines.
+Private (Feel free to make a request for any of these in the Consolidated Invite Thread.
+http://bibliotik.org R.I.P. IT IS ALIVE!
+http://bitme.org
+http://myanonamouse.net (see sidebar for invite)
+http://bitspyder.net
+http://www.learnbits.me
+http://www.ebookvortex.com
+http://elbitz.net
+http://docspedia.org
+http://abtorrents.com (audiobooks)
+These last few are sort of specialized eBook private trackers. Google them for info.
+http://thegeeks.bz
+http://theplace.bz
+http://thevault.bz
+http://bitseduce.com
+http://salad.tl
+General private trackers have some stuff too, try places like TL or DH and trackers like them. Reddit's private tracker BaconBits has a nice collection of eBooks too.
+Also, don't forget that What.CD and Waffles.FM both have a huge selection of eBooks.
+IRC (Don't overlook this)
+irc://irc.undernet.org/bookz
+irc://irc.irchighway.net/ebooks
+If you don't know how to use IRC to download books, check out this link or read this:
+IRC Guide
+You obviously need an IRC client installed, a quick google search should find you a bunch of decent free ones.
+Load up the client and then type:
+/server irc.irchighway.net
+This will connect you to the irchighway server. Once you're on there, type:
+/join #ebooks
+This will take you into the ebooks channel, which has more than 2.2Terabytes of ebooks for free download. Once you're in, all you have to do to find what you want is to simply type:
+@search "Author or book title"
+... removing the inverted commas.
+You'll get a message saying that your search has been accepted. A few seconds later a searchbot will offer you a file, so accept the download. That will send you a .txt file that's zipped. Extract that and you'll get a list of files. I searched for Lian Hearn and got a list of 147 files. Here's an extract from it:
+!bald Lian Hearn - [Tales Of The Otori 02] - Grass For His Pillow .rar - 142.1 KB !bald Lian Hearn - Tales of the Otori 2 - Grass for His Pillow (CO.rar - 355.3 KB !bald Lian Hearn - Tales of the Otori 2 - Grass for His Pillow (ht.rar - 140.54 KB !bald LianHearn-[Otori_01]-Across_The_Nightingale_Floor(v3).rar - 111.62 KB !bald Lian_Hearn-[Otori_01]-Across_the_Nightingale_Floor(v4.0.rar - 115.45 KB !bald Lian Hearn - [Tales Of The Otori 03] - Brilliance Of The Moo.rar - 175.53 KB !bald Lian Hearn - [Tales Of The Otori 04] - The Harsh Cry of the Heron (v1.0) (html).rar - 351.80 KB !bald Lian Hearn - [Tales Of the Otori 05] - Heaven's Net Is Wide (v5.0) (epub).rar - 588.40 KB
+Say I wanted to download the first book. I'd copy the text shown below, deliberately removing the file size information (I've been booted for that before ):
+!bald Lian Hearn - [Tales Of The Otori 02] - Grass For His Pillow .rar
+Then just paste that into the IRC window then press enter. After 2-3 seconds you get a prompt asking you to accept or decline the file.You know how to do the rest.
+If I'm missing anything, hit me up and I'll add it.
