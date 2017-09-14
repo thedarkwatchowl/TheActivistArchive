@@ -45,11 +45,6 @@ Web Browsing
 -The Tor Browser 
 -Orbot & Orfox - tor for Android
 
-Desktop Operating Systems
--Tails
--CubesOS
-Another Linux distribution
-
 Messaging Platforms
 -Pidgin with OTR -for encrypted off the record messaging
 -Signal - for encrypted text messaging
@@ -88,7 +83,7 @@ Cloud storage
 -syncthing
 
 VPN Service
--Riseup VPN service -free with invention
+-Riseup VPN service -free with invitation
 -Austici -free
 -Private Internet Access -paid 
 
@@ -113,7 +108,10 @@ Mobile Operating Systems
 Preventing Data Leakage
 -Avoid using social media on mobile devices
 -Lock down the permissions necessary for applications on your phone 
--Do not post when you are on vacation on social media
+-Do not post when you are on vacation on social media 
+-Discontinue mail subscriptions when you leave home to avoid tipping off vacancy. 
+-scheduling lights to be auto-on to mask if someone is home or not
+-practicing other forms of operational security. 
 
 
 
